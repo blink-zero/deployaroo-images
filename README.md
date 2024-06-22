@@ -71,6 +71,7 @@ Currently: 1
 | Image Name                                          | Author        | Image Type  | OS                                   | Description                                                                                             | Download Link                                       |
 |-----------------------------------------------------|---------------|-------------|--------------------------------------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
 | Ubuntu 20.04 - OpenPLCv3                            | blink-zero    | Non-Domain  | Ubuntu 20.04                         | Minimal installation of Ubuntu 20.04 VM for non-domain environments with OpenPLC installed.             | [Download](images/community/vmware_create_linux_ubuntu20.04_openplcv3.zip) |
+| Ubuntu 22.04 - Docker and Docker Compose            | blink-zero    | Non-Domain  | Ubuntu 22.04                         | Minimal installation of Ubuntu 22.04 VM for non-domain environments with Docker & Docker Compose installed.| [Download](images/community/vmware_create_linux_ubuntu22.04_docker.zip) |
 
 ---
 
