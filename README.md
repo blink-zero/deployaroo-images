@@ -1,5 +1,7 @@
 # Deployaroo VM Images Repository
 
+![Deployaroo](https://img.shields.io/badge/Deployaroo-VM%20Images-blue)
+
 Welcome to the Deployaroo VM Images repository. This repository contains various VM image playbooks that can be used with Deployaroo for deployment.
 
 ## Table of Contents
@@ -27,7 +29,7 @@ Deployaroo simplifies the deployment of virtual machines by leveraging VMware Te
 ## VM Images
 
 ### Non-Domain Images
-Currently: 16
+**Currently: 16**
 
 | Image Name                                          | Author        | Image Type  | OS                                   | Description                                                                                             | Download Link                                               |
 |-----------------------------------------------------|---------------|-------------|--------------------------------------|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
@@ -50,7 +52,7 @@ Currently: 16
 
 
 ### Domain Images
-Currently: 9
+**Currently: 9**
 
 | Image Name                                          | Author        | Image Type  | OS                                   | Description                                                                                             | Download Link                                       |
 |-----------------------------------------------------|---------------|-------------|--------------------------------------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
@@ -66,7 +68,7 @@ Currently: 9
 
 
 ### Community Images
-Currently: 3
+**Currently: 3**
 
 | Image Name                                          | Author        | Image Type  | OS                                   | Description                                                                                             | Download Link                                       |
 |-----------------------------------------------------|---------------|-------------|--------------------------------------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
@@ -134,4 +136,3 @@ We welcome contributions from the community! To submit your VM image:
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
