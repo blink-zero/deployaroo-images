@@ -33,3 +33,4 @@
 |-----------------------------------------------------|---------------------------------|---------------------------|
 | Ubuntu 20.04 - OpenPLCv3                            | vmware_create_linux_ubuntu20.04_openplcv3 | lin_ubuntu20.04_openplcv3 |
 | Ubuntu 22.04 - Docker and Docker Compose            | vmware_create_linux_ubuntu22.04_docker | lin_ubuntu22.04_docker |
+| Windows 10 Pro - FactoryIO                          | vmware_create_windows_10pro_factoryio  | win_10pro_factoryio |
