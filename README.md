@@ -29,13 +29,12 @@ Deployaroo simplifies the deployment of virtual machines by leveraging VMware Te
 ## VM Images
 
 ### Non-Domain Images
-**Currently: 16**
+**Currently: 15**
 
 | Image Name                                          | Author        | Image Type  | OS                                   | Description                                                                                             | Download Link                                               |
 |-----------------------------------------------------|---------------|-------------|--------------------------------------|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
 | CentOS 7 - GUI                                      | blink-zero    | Non-Domain  | CentOS 7                             | Automates deployment of CentOS 7 VM with GUI, including network config and final reboot.                | [Download](images/non-domain/vmware_create_linux_centos7_gui.zip) |
 | CentOS 7 - Minimal                                  | blink-zero    | Non-Domain  | CentOS 7                             | Minimal installation of CentOS 7 VM.                                                                    | [Download](images/non-domain/vmware_create_linux_centos7_minimal.zip)                   |
-| Kali 2024.1                                         | blink-zero    | Non-Domain  | Kali 2024.1                          | Kali Linux 2024.1 VM image for non-domain environments.                                                 | [Download](images/non-domain/vmware_create_linux_kali2024.1.zip)                         |
 | Ubuntu 18.04 - GUI                                  | blink-zero    | Non-Domain  | Ubuntu 18.04                         | Ubuntu 18.04 VM with GUI for non-domain use.                                                            | [Download](images/non-domain/vmware_create_linux_ubuntu18.04_gui.zip)                    |
 | Ubuntu 18.04 - Minimal                              | blink-zero    | Non-Domain  | Ubuntu 18.04                         | Minimal installation of Ubuntu 18.04 VM.                                                                | [Download](images/non-domain/vmware_create_linux_ubuntu18.04_minimal.zip)                |
 | Ubuntu 20.04 - GUI                                  | blink-zero    | Non-Domain  | Ubuntu 20.04                         | Ubuntu 20.04 VM with GUI for non-domain use.                                                            | [Download](images/non-domain/vmware_create_linux_ubuntu20.04_gui.zip)                    |
@@ -68,13 +67,15 @@ Deployaroo simplifies the deployment of virtual machines by leveraging VMware Te
 
 
 ### Community Images
-**Currently: 3**
+**Currently: 4**
 
 | Image Name                                          | Author        | Image Type  | OS                                   | Description                                                                                             | Download Link                                       |
 |-----------------------------------------------------|---------------|-------------|--------------------------------------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
 | Ubuntu 20.04 - OpenPLCv3                            | blink-zero    | Non-Domain  | Ubuntu 20.04                         | Minimal installation of Ubuntu 20.04 VM for non-domain environments with OpenPLC installed.             | [Download](images/community/vmware_create_linux_ubuntu20.04_openplcv3.zip) |
 | Ubuntu 22.04 - Docker and Docker Compose            | blink-zero    | Non-Domain  | Ubuntu 22.04                         | Minimal installation of Ubuntu 22.04 VM for non-domain environments with Docker & Docker Compose installed.| [Download](images/community/vmware_create_linux_ubuntu22.04_docker.zip) |
 | Windows 10 Pro - FactoryIO                          | blink-zero    | Non-Domain  | Windows 10 Professional              | Windows 10 Professional with FactoryIO and custom scene installed.                                      | [Download](images/community/vmware_create_windows_10pro_factoryio.zip) |
+| Kali 2024.1                                         | blink-zero    | Non-Domain  | Kali 2024.1                          | Kali Linux 2024.1 VM image for non-domain environments.                                                 | [Download](images/non-domain/vmware_create_linux_kali2024.1.zip)                         |
+
 
 ---
 
